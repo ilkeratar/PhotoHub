@@ -1,0 +1,26 @@
+{
+  "name": "photohub",
+  "version": "1.0.0",
+  "description": "PhotoHub App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkeratar/PhotoHub.git"
+  },
+  "keywords": [
+    "photo",
+    "app"
+  ],
+  "author": "İlker Atar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilkeratar/PhotoHub/issues"
+  },
+  "homepage": "https://github.com/ilkeratar/PhotoHub#readme",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
